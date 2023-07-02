@@ -1,1 +1,1 @@
-This repository contains all the assignemts for the FSDS 2023 Batch of iNeuron
+This repository contains all the assignments for the FSDS 2023 Batch of iNeuron
