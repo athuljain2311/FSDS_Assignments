@@ -1,0 +1,5 @@
+2023-07-06 15:53:34,244 : DEBUG : testLogger1 : Debug message
+2023-07-06 15:53:34,246 : INFO : testLogger1 : Just an information
+2023-07-06 15:53:34,247 : WARNING : testLogger1 : This is a warning
+2023-07-06 15:53:34,249 : ERROR : testLogger1 : Division by zero
+2023-07-06 15:53:34,250 : CRITICAL : testLogger1 : Internet down
